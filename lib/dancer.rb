@@ -1,6 +1,6 @@
 require_relative './class_methods_module.rb'
 #require_relative './dance_module.rb'
-require_relative './fance_dance.rb'
+require_relative './fancu_dance.rb'
 
 class Dancer
   
