@@ -9,8 +9,8 @@ module MetaDancing
   end
   
   class Kid
-  extend MetaDancing
-end
+    extend MetaDancing
+  end
 
   
 end
